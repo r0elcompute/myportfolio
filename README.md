@@ -131,7 +131,7 @@
 <h2 class = "contact"><u>Contact details</u></h2>
 <p class = "text">You can find me by emailing me or shooting me a text below!</p>
 <div class = "icons">
-    <a href = "mailto:rodgersmwangi20@gmai.com"><i class="fa-solid fa-thin fa-envelope fa-2x"></i></a>
+    <a href = "mailto:rodgersmwangi20@gmail.com"><i class="fa-solid fa-thin fa-envelope fa-2x"></i></a>
     <a href = "http://www.youtube.com/@r0elcompute"><i class="fa-brands fa-youtube fa-2x"></i>
     </a>
     <a href = "https://www.linkedin.com/in/mwangi-rodgers-34b6a233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fa-brands fa-linkedin fa-2x"></i>
